@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm GamingKlex</h1>
-<h3 align="center">A developer with big dreams!</h3>
+<h2 align="left">Send me project ideas! </h2>
+<h3 align="center">A developer with big dreams! gamingklexmail@gmail.com</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamingklex" alt="gamingklex" /></a> </p>
 
