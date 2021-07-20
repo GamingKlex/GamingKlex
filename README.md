@@ -12,9 +12,7 @@
 - 💬 Ask me about **JS or PHP**
 
 - 📫 How to reach me **gamingklexmail@gmail.com**
-
-- 1 [2](2)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15477013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15477013" height="30" width="40" /></a>
