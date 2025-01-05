@@ -11,7 +11,7 @@ I am a full-stack developer located in Germany, and this is my <i>cozy little</i
 
 * **portfolio ✨**<br/>
   A beatiful and <i>godly</i> smooth portfolio template page with easy customization! <br/>
-  [Repo](https://github.com/GamingKlex/portfolio) or [Demo](https://github.com/GamingKlex/portfolio)
+  [Repo](https://github.com/GamingKlex/portfolio) or [Demo](https://gamingklex.github.io/portfolio)
 
 * <i>mysterious other stuff... 🪄</i>
 
