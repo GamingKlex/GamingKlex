@@ -1,7 +1,7 @@
 <img src='https://raw.githubusercontent.com/GamingKlex/GamingKlex/df3b973fffa12dcb54a0b51d55cf89fe16a46e99/portfolio2.png' align="center" style="with: 100%;"/>
 
 Hi there! My name is **Jan**. <sub>(mind my gamertag "GamingKlex")</sub> <br/>
-I am a full-stack developer located in Germany, and this is my <i>cozy little</i> GitHub Profile 🔥!
+I am a full-stack developer and designer located in Germany, and this is my <i>cozy little</i> GitHub Profile 🔥!
 
 ## 📑 Some of the cool stuff I made:
 
