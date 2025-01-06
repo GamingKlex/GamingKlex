@@ -27,8 +27,7 @@ yeah that's basically it with the stuff I can do while <i>sleeping</i>...<br/>
 * **Java** for Minecraft plugins and mods
 * **C++** for Unreal Engine stuff
 * and last but not least **Python** for good old messin' around 🐍
-
-<sub>... and lot's of other tech I probably already forgot... :)</sub>
+* ... and lot's of other tech I probably already forgot... :)
 
 ---
 
