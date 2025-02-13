@@ -5,13 +5,17 @@ I am a full-stack developer and designer located in Germany, and this is my <i>c
 
 ## 📑 Some of the cool stuff I made:
 
-* **Wordle**<br/>
-  A simple clone of the popular **Worlde** game which runs off static files! <br/>
-  [Repo](https://github.com/GamingKlex/wordle) or [Demo](https://gamingklex.github.io/wordle)
-
 * **portfolio ✨**<br/>
   A beatiful and <i>godly</i> smooth portfolio template page with easy customization! <br/>
   [Repo](https://github.com/GamingKlex/portfolio) or [Demo](https://gamingklex.github.io/portfolio)
+
+* **Secreto 🔑**<br/>
+  A simple web app to generate <b>passwords, passphrases, and secrets</b>. <br/>
+  [Repo](https://github.com/GamingKlex/Secreto) or [Demo](https://gamingklex.github.io/Secreto)
+
+* **Wordle**<br/>
+  A simple clone of the popular **Worlde** game which runs off static files! <br/>
+  [Repo](https://github.com/GamingKlex/wordle) or [Demo](https://gamingklex.github.io/wordle)
 
 * <i>mysterious other stuff... 🪄</i>
 
